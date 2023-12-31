@@ -1,9 +1,9 @@
 [package]
 name = "indominiso/clientcast"
-version = "1.0.6"
+version = "1.0.7"
 description = "ClientCast with wally support"
 registry = "https://github.com/UpliftGames/wally-index"
-realm = "server"
+realm = "shared"
 license = "Apache-2.0"
 authors = ["Pyseps"]
 
