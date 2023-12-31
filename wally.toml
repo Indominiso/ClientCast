@@ -1,5 +1,5 @@
 [package]
-name = "rdimov04/clientcast"
+name = "indominiso/clientcast"
 version = "1.0.6"
 description = "ClientCast with wally support"
 registry = "https://github.com/UpliftGames/wally-index"
