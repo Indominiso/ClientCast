@@ -1,0 +1,10 @@
+[package]
+name = "rdimov04/clientcast"
+version = "1.0.6"
+description = "ClientCast with wally support"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "server"
+license = "Apache-2.0"
+authors = ["Pyseps"]
+
+[dependencies]
